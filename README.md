@@ -6,3 +6,7 @@
 4. git commit -m "first commit"
 5. git remote add origin https://github.com/mumujialiang/git_cmd.git
 6. git push -u origin master
+
+# 复制/下载github上的工程
+- git clone [url]   例如：git clone https://github.com/mumujialiang/git_cmd.git
+
