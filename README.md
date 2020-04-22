@@ -1,4 +1,4 @@
-# hello world版本
+# 命令行 hello world版本
 
 1. echo "# git_cmd" >> README.md
 2. git init
@@ -7,6 +7,9 @@
 5. git remote add origin https://github.com/mumujialiang/git_cmd.git
 6. git push -u origin master
 
-# 复制/下载github上的工程
-- git clone [url]   例如：git clone https://github.com/mumujialiang/git_cmd.git
+# 廖雪峰教程
+https://www.liaoxuefeng.com/wiki/896043488029600
+
+# SourceTree官网
+https://www.sourcetreeapp.com/
 
